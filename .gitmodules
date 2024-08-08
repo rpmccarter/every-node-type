@@ -1,0 +1,3 @@
+[submodule "simple-submodule"]
+	path = simple-submodule
+	url = https://github.com/rpmccarter/simple-submodule
